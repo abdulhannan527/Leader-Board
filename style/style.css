@@ -1,0 +1,99 @@
+body{
+    background-color: #E5E5E5;;
+}
+
+.navbar img{
+    width: 40px;
+    height: 51px;
+   
+}
+
+.navbar-brand{
+    margin-left: 250px ;
+
+}
+.nav-item:last-child{
+ margin-right: 250px;
+}
+
+#navbarText a{
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+ 
+}
+.player img {
+    width: 74px;
+    
+}
+
+.top-player{
+    background-color: #FFFFFF;
+    
+}
+.top-player h2{
+ color:#562EFF;
+ font-weight: 700;
+}
+main{
+    max-width: 1100px;
+
+}
+main p{
+    font-weight: 700;
+}
+.blog-artical img{
+    width: 177px;
+}
+.blog-artical p{
+color: #562EFF;
+
+}
+.para-ph{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.blog-artical h4{
+    font-weight: 700;
+}
+.special-color{
+    color: #9F9F9F;
+}
+
+.card-footer img{
+    width: 15px;
+    
+}
+.gray-highlight{
+    background-color: #888585;
+}
+.footer-clock{
+    display: inline-flex;
+  padding: 5px;
+  margin-top: -25px;
+  
+}
+.pink-highlight{
+    color: #FF4A60;;
+    padding: 5px;
+  
+}
+footer p{
+    text-align: center;
+    margin-top: 100px;
+    background-color: gray;
+    color: white;
+}
+
+.card{
+    border-radius: 10px;
+}
+.card img{
+    margin-top: 15px;
+}
+.card p{
+    color: #ED6B4F;
+    font-size: 20px;
+    font-weight: normal;
+}
