@@ -9,11 +9,11 @@ body{
 }
 
 .navbar-brand{
-    margin-left: 250px ;
+    margin-left: 150px ;
 
 }
 .nav-item:last-child{
- margin-right: 250px;
+ margin-right: 150px;
 }
 
 #navbarText a{
@@ -74,6 +74,14 @@ color: #562EFF;
   margin-top: -25px;
   
 }
+.card-footer p{
+    display: inline-flex;
+   
+   
+}
+#clock{
+    margin-top: -4px;
+}
 .pink-highlight{
     color: #FF4A60;;
     padding: 5px;
@@ -88,17 +96,25 @@ footer p{
 
 .card{
     border-radius: 10px;
+    box-shadow: 5px 5px 30px;
 }
 .card img{
     margin-top: 15px;
+   
 }
 .card p{
     color: #ED6B4F;
     font-size: 20px;
     font-weight: normal;
+  
 }
 .lates-course h2{
     color: #562EFF;
     margin: 50px 0 30px 0px;
     font-weight: 700;
+}
+.text-muted p{
+    margin-bottom: -20px;
+    padding-left: 10px;
+    font-size: 16px;
 }
